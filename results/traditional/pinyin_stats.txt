@@ -1,0 +1,47 @@
+Average # of pronunciations per character: 1.19
+Average # of pronunciations per phonetic compound: 1.19
+# of polyphonic phonetic compounds (compound is polyphonic
+or their phonetic component is polyphonic or both): 738
+	- 30% all phonetic compounds
+	- 20% of all characters
+# of A and B class phonetics: 1065
+	- 44% of all phonetic compounds
+	- 29% of all characters
+# of A class phonetics matching both syllable and tone: 762
+	- 31% of all phonetic compounds
+	- 20% of all characters
+# of A1 phonetics: 423
+	- 56% of all A class same-tone phonetics
+	- 17% of all phonetic compounds
+	- # of A1C consistent phonetics: 198
+		- 47% of all A1 class
+		- eg: 叼 diao1 (刁 diao1); 伙 huo3 (火 huo3); 仗 zhang4 (丈 zhang4); 佑 you4 (右 you4); 佈 bu4 (布 bu4)
+	- # of A1S semiconsistent phonetics: 63
+		- 15% of all A1 class
+		- eg: 伍 wu3 (五 wu3); 灸 jiu3 (久 jiu3); 玖 jiu3 (久 jiu3); 咐 fu4 (付 fu4); 拒 ju4 (巨 ju4)
+	- # of A1I inconsistent phonetics: 162
+		- 38% of all A1 class
+		- eg: 奶 nai3 (乃 nai3); 功 gong1 (工 gong1); 兇 xiong1 (凶 xiong1); 匈 xiong1 (凶 xiong1); 抗 kang4 (亢 kang4)
+# of A2 phonetics: 295
+	- 39% of all A class same-tone phonetics
+	- 12% of all phonetic compounds
+	- eg: 叮 ding1 (丁 ding1, zheng1); 叨 dao1, dao2, tao1 (刀 dao1); 叭 ba1 (八 ba1, ba2); 伕 fu1 (夫 fu1, fu2); 仲 zhong4 (中 zhong1, zhong4)
+# of A3 phonetics: 44
+	- 6% of all A class same-tone phonetics
+	- 2% of all phonetic compounds
+	- eg: 扒 ba1, pa2 (八 ba1, ba2); 囤 dun4, tun2 (屯 tun2, zhun1); 杆 gan1, gan3 (干 gan1, gan4); 坷 jiong1, ke1, ke3 (可 ke3, ke4); 怔 zheng1, zheng4 (正 zheng1, zheng4)
+# of B class phonetics matching syllable but not tone: 303
+	- 13% of all phonetic compounds
+	- 8% of all characters
+# of B1 phonetics: 193
+	- 64% of all B class different-tone phonetics
+	- 8% of all phonetic compounds
+	- eg: 仿 fang3 (方 fang1); 庇 bi4 (比 bi3); 忌 ji4 (己 ji3); 忍 ren3 (刃 ren4); 妄 wang4 (亡 wang2)
+# of B2 phonetics: 96
+	- 32% of all B class different-tone phonetics
+	- 4% of all phonetic compounds
+	- eg: 吁 xu1, yu1, yu4 (于 yu2); 彷 fang3, pang2 (方 fang1); 把 ba3, ba4 (巴 ba1); 估 gu1, gu4 (古 gu3); 伺 ci4, si4 (司 si1)
+# of B3 phonetics: 14
+	- 5% of all B class different-tone phonetics
+	- 1% of all phonetic compounds
+	- eg: 呵 a1, a2, a4, a5, he1, ke1 (可 ke3, ke4); 沮 ju3, ju4 (且 ju1, qie3); 祇 qi2, zhi3 (氏 shi4, zhi1); 格 ge1, ge2 (各 ge3, ge4); 胳 ga1, ge1, ge2 (各 ge3, ge4)

@@ -1,0 +1,9 @@
+# of all common characters: 3725
+# of phonetic compounds: 2424
+	- 65% of all characters
+# of unique phonetic components: 931
+	- 77% are common phonetics (719)
+	- 23% are uncommon phonetics (212)
+# of phonetic compounds with uncommon phonetics: 455
+	- 19% all phonetic compounds
+	- 12% of all characters

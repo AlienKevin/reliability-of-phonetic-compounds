@@ -1,0 +1,15 @@
+[package]
+name = "phonetics"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+csv = "1.1"
+itertools = "0.10.3"
+indexmap = "1.8.0"
+headless_chrome = { git = "https://github.com/atroche/rust-headless-chrome", rev = "fd9ba91a248d61aa0c27a81013bcca169087bbc6" }
+lazy_static = "1.4.0"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"

@@ -1,0 +1,47 @@
+Average # of pronunciations per character: 1.66
+Average # of pronunciations per phonetic compound: 1.65
+# of polyphonic phonetic compounds (compound is polyphonic
+or their phonetic component is polyphonic or both): 1455
+	- 60% all phonetic compounds
+	- 39% of all characters
+# of A and B class phonetics: 1165
+	- 48% of all phonetic compounds
+	- 31% of all characters
+# of A class phonetics matching both syllable and tone: 910
+	- 38% of all phonetic compounds
+	- 24% of all characters
+# of A1 phonetics: 205
+	- 23% of all A class same-tone phonetics
+	- 8% of all phonetic compounds
+	- # of A1C consistent phonetics: 110
+		- 54% of all A1 class
+		- eg: 叼 diu1 (刁 diu1); 伙 fo2 (火 fo2); 帆 faan4 (凡 faan4); 佈 bou3 (布 bou3); 尬 gaai3 (介 gaai3)
+	- # of A1S semiconsistent phonetics: 17
+		- 8% of all A1 class
+		- eg: 玖 gau2 (久 gau2); 垮 kwaa1 (夸 kwaa1); 附 fu6 (付 fu6); 紉 jan6 (刃 jan6); 俯 fu2 (府 fu2)
+	- # of A1I inconsistent phonetics: 78
+		- 38% of all A1 class
+		- eg: 功 gung1 (工 gung1); 兇 hung1 (凶 hung1); 匈 hung1 (凶 hung1); 伸 san1 (申 san1); 址 zi2 (止 zi2)
+# of A2 phonetics: 396
+	- 44% of all A class same-tone phonetics
+	- 16% of all phonetic compounds
+	- eg: 叨 tou1, dou1 (刀 dou1); 伕 fu1 (夫 fu1, fu4); 任 jam6, jam4 (壬 jam4); 什 sap6, sam6, zaap6 (十 sap6); 仔 zai2, zai4, zi2, zi1 (子 zi2)
+# of A3 phonetics: 309
+	- 34% of all A class same-tone phonetics
+	- 13% of all phonetic compounds
+	- eg: 叮 ding1, deng1 (丁 ding1, zaang1, zang1); 奶 naai5, laai5, naai2, laai2, naai4, laai4, naai1, laai1 (乃 naai5, laai5, oi2, ngoi2); 伍 ng5, m5 (五 ng5, m5); 仗 zoeng6, zoeng2, zoeng3 (丈 zoeng6, zoeng2); 份 fan6, fan2, ban1 (分 fan1, fan6)
+# of B class phonetics matching syllable but not tone: 255
+	- 11% of all phonetic compounds
+	- 7% of all characters
+# of B1 phonetics: 61
+	- 24% of all B class different-tone phonetics
+	- 3% of all phonetic compounds
+	- eg: 仿 fong2 (方 fong1); 忍 jan2 (刃 jan6); 佐 zo3 (左 zo2); 妨 fong4 (方 fong1); 沁 sam3 (心 sam1)
+# of B2 phonetics: 129
+	- 51% of all B class different-tone phonetics
+	- 5% of all phonetic compounds
+	- eg: 仲 zung6 (中 zung1, zung3); 庇 bei3 (比 bei2, bei6, pei4); 彷 pong4, fong2 (方 fong1); 妄 mong5 (亡 mong4, mou4); 宇 jyu5 (于 jyu1, jyu4)
+# of B3 phonetics: 65
+	- 25% of all B class different-tone phonetics
+	- 3% of all phonetic compounds
+	- eg: 仆 fu6, puk6, puk1, buk6 (卜 baak6, buk1); 刊 hon1, hon2 (干 gon1, gon3, hon4); 朴 pok3, pok2, buk6, po1, piu4 (卜 baak6, buk1); 伯 baak3, baa3, mak6 (白 baak6, baak2); 努 nou5, lou5 (奴 nou4, lou4)

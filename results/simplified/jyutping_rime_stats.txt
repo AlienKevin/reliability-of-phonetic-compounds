@@ -1,0 +1,47 @@
+Average # of pronunciations per character: 1.59
+Average # of pronunciations per phonetic compound: 1.59
+# of polyphonic phonetic compounds (compound is polyphonic
+or their phonetic component is polyphonic or both): 1285
+	- 55% all phonetic compounds
+	- 37% of all characters
+# of A and B class phonetics: 1134
+	- 49% of all phonetic compounds
+	- 32% of all characters
+# of A class phonetics matching both syllable and tone: 848
+	- 37% of all phonetic compounds
+	- 24% of all characters
+# of A1 phonetics: 232
+	- 27% of all A class same-tone phonetics
+	- 10% of all phonetic compounds
+	- # of A1C consistent phonetics: 109
+		- 47% of all A1 class
+		- eg: 叼 diu1 (刁 diu1); 芝 zi1 (之 zi1); 刚 gong1 (冈 gong1); 伦 leon4 (仑 leon4); 伙 fo2 (火 fo2)
+	- # of A1S semiconsistent phonetics: 24
+		- 10% of all A1 class
+		- eg: 伍 ng5 (五 ng5); 玖 gau2 (久 gau2); 玛 maa5 (马 maa5); 附 fu6 (付 fu6); 拦 laan4 (兰 laan4)
+	- # of A1I inconsistent phonetics: 99
+		- 43% of all A1 class
+		- eg: 历 lik6 (力 lik6); 功 gung1 (工 gung1); 们 mun4 (门 mun4); 迁 cin1 (千 cin1); 匈 hung1 (凶 hung1)
+# of A2 phonetics: 377
+	- 44% of all A class same-tone phonetics
+	- 16% of all phonetic compounds
+	- eg: 什 sam6, sap6, zaap6 (十 sap6); 讥 gei1 (几 gei1, gei2); 扒 baat3, paa1, paa2, paa4 (八 baat3); 叮 ding1 (丁 ding1, zaang1, zang1); 叨 dou1, tou1 (刀 dou1)
+# of A3 phonetics: 239
+	- 28% of all A class same-tone phonetics
+	- 10% of all phonetic compounds
+	- eg: 叽 gei1, gi1 (几 gei1, gei2); 仔 zai2, zi1, zi2 (子 ci4, zi2); 奶 naai1, naai4, naai5 (乃 naai5, oi2); 迂 jyu1, jyu4 (于 jyu1, jyu4); 芋 jyu1, wu6 (于 jyu1, jyu4)
+# of B class phonetics matching syllable but not tone: 286
+	- 12% of all phonetic compounds
+	- 8% of all characters
+# of B1 phonetics: 85
+	- 30% of all B class different-tone phonetics
+	- 4% of all phonetic compounds
+	- eg: 仪 ji4 (义 ji6); 记 gei3 (己 gei2); 优 jau1 (尤 jau4); 讶 ngaa6 (牙 ngaa4); 访 fong2 (方 fong1)
+# of B2 phonetics: 142
+	- 50% of all B class different-tone phonetics
+	- 6% of all phonetic compounds
+	- eg: 认 jan6, jing2, jing6 (人 jan4); 议 ji3, ji5 (义 ji6); 百 baak3, mak6 (白 baak6); 吸 kap1 (及 gap6, kap6); 传 cyun4, zyun2, zyun3, zyun6 (专 zyun1)
+# of B3 phonetics: 59
+	- 21% of all B class different-tone phonetics
+	- 3% of all phonetic compounds
+	- eg: 仆 buk6, fu6, puk1 (卜 baak6, buk1); 订 deng3, deng6, ding3 (丁 ding1, zaang1, zang1); 刊 hon1, hon2 (干 gon1, gon3, hon4); 打 daa1, daa2, ding2 (丁 ding1, zaang1, zang1); 圾 kap1, ngap6, saap3 (及 gap6, kap6)
